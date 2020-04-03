@@ -192,7 +192,7 @@ hr {
     margin-top: 100px;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 675px) {
 
     #bg-top {
         position: fixed;
